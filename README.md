@@ -13,7 +13,6 @@
 ```bash
 # 1. Установить зависимости
 npm install
-cd client && npm install && cd ..
 
 # 2. Заполнить БД тестовыми данными
 npm run seed
