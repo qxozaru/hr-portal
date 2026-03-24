@@ -20,6 +20,3 @@ npm run seed
 # 3. Запустить сервер и клиент
 npm run dev
 ```
-
-Сервер: http://localhost:3001  
-Клиент: http://localhost:5173
